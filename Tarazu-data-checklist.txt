@@ -1,0 +1,8 @@
+MISSING HDFC Nifty 50 Index Fund Regular Growth 2020-01-13 2020-03-23 (one AMFI request) https://www.amfiindia.com/net-asset-value/nav-download → data-raw/101525-2020.csv
+MISSING HDFC Nifty 50 Index Fund Direct Growth 2020-01-13 2020-03-23 (one AMFI request) https://www.amfiindia.com/net-asset-value/nav-download → data-raw/119063-2020.csv
+MISSING HDFC Bank Limited 2020-01-13 2020-03-23  https://www.nseindia.com/report-detail/eq_security → data-raw/HDFCBANK-2020.csv
+MISSING ICICI Bank Limited 2020-01-13 2020-03-23  https://www.nseindia.com/report-detail/eq_security → data-raw/ICICIBANK-2020.csv
+MISSING Infosys Limited 2020-01-13 2020-03-23  https://www.nseindia.com/report-detail/eq_security → data-raw/INFY-2020.csv
+MISSING NIFTY 50 2020-01-13 2020-03-23  https://www.niftyindices.com/reports/historical-data → data-raw/NIFTY50-2020.csv
+Supply data-raw/_provenance.json keyed by symbol or a per-file <filename>.json override with sourceUrl, retrievalDate, licenceNote. Review corporate actions for the historical window. Run node tools/import-prices.mjs.
+OPTIONAL EQUITY ACTION REVIEW: data-raw/corporate-actions-2020.csv · complete NSE equity export · 2020-01-14 to 2020-03-23 · https://www.nseindia.com/companies-listing/corporate-filings-actions

@@ -1,0 +1,11 @@
+{
+  "symbol": "HDFCBANK",
+  "name": "HDFC Bank",
+  "isin": "INE040A01034",
+  "source": "NSE",
+  "sourceUrl": "https://www.nseindia.com/market-data/eod-historical-data-subscription",
+  "retrievalDate": null,
+  "adjusted": false,
+  "method": "No observations imported.",
+  "candles": []
+}

@@ -1,0 +1,81 @@
+{
+  "verified": "2026-11-20",
+  "equitySource": "https://nsearchives.nseindia.com/content/indices/ind_nifty50list.csv",
+  "constituents": [
+    {
+      "name": "Bharti Airtel Ltd.",
+      "industry": "Telecommunication",
+      "symbol": "BHARTIARTL",
+      "series": "EQ",
+      "isin": "INE397D01024"
+    },
+    {
+      "name": "HDFC Bank Ltd.",
+      "industry": "Financial Services",
+      "symbol": "HDFCBANK",
+      "series": "EQ",
+      "isin": "INE040A01034"
+    },
+    {
+      "name": "Hindustan Unilever Ltd.",
+      "industry": "Fast Moving Consumer Goods",
+      "symbol": "HINDUNILVR",
+      "series": "EQ",
+      "isin": "INE030A01027"
+    },
+    {
+      "name": "ICICI Bank Ltd.",
+      "industry": "Financial Services",
+      "symbol": "ICICIBANK",
+      "series": "EQ",
+      "isin": "INE090A01021"
+    },
+    {
+      "name": "ITC Ltd.",
+      "industry": "Fast Moving Consumer Goods",
+      "symbol": "ITC",
+      "series": "EQ",
+      "isin": "INE154A01025"
+    },
+    {
+      "name": "Infosys Ltd.",
+      "industry": "Information Technology",
+      "symbol": "INFY",
+      "series": "EQ",
+      "isin": "INE009A01021"
+    },
+    {
+      "name": "Larsen & Toubro Ltd.",
+      "industry": "Construction",
+      "symbol": "LT",
+      "series": "EQ",
+      "isin": "INE018A01030"
+    },
+    {
+      "name": "Reliance Industries Ltd.",
+      "industry": "Oil Gas & Consumable Fuels",
+      "symbol": "RELIANCE",
+      "series": "EQ",
+      "isin": "INE002A01018"
+    },
+    {
+      "name": "Sun Pharmaceutical Industries Ltd.",
+      "industry": "Healthcare",
+      "symbol": "SUNPHARMA",
+      "series": "EQ",
+      "isin": "INE044A01036"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd.",
+      "industry": "Information Technology",
+      "symbol": "TCS",
+      "series": "EQ",
+      "isin": "INE467B01029"
+    }
+  ],
+  "fundSource": "https://portal.amfiindia.com/spages/NAVAll.txt",
+  "historicalEvidence": [
+    "https://portal.amfiindia.com/spages/859.pdf",
+    "https://portal.amfiindia.com/NavHistoryReport_Rpt_Po.aspx?frmdate=01-Apr-2015&rpt=0"
+  ]
+}

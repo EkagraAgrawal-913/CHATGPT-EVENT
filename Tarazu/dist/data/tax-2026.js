@@ -1,0 +1,2 @@
+const TaxRules=Object.freeze({verified:'2026-11-20',from:'2026-04-01',through:'2027-03-31',shortBp:2000,longBp:1250,exemptionPaise:12500000,cessBp:400,surchargeCapBp:1500,months:12,grandfatherThrough:'2018-01-31',sources:['https://www.incometaxindia.gov.in/documents/d/guest/income_tax_act_2025_as_amended_by_fa_act_2026-pdf','https://www.incometaxindia.gov.in/documents/d/guest/finance-act-2026-pdf-1','https://www.incometaxindia.gov.in/w/capital-gain']});
+if(typeof module!=='undefined')module.exports=TaxRules;

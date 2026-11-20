@@ -1,0 +1,11 @@
+{
+  "symbol": "ICICIBANK",
+  "name": "ICICI Bank",
+  "isin": "INE090A01021",
+  "source": "NSE",
+  "sourceUrl": "https://www.nseindia.com/market-data/eod-historical-data-subscription",
+  "retrievalDate": null,
+  "adjusted": false,
+  "method": "No observations imported.",
+  "candles": []
+}
